@@ -3,8 +3,8 @@ light ticket prices can be something hard to guess, today we might see a price, 
 
 
 ## 2️⃣ Project Structure :
-```
-### A) Train set
+
+**A) Train set**
 ⭕EDA : 
          ✅ Departure time
          ✅ Arrival time
@@ -22,4 +22,3 @@ Aplly the same steps as we did above in the `Train set`.
 **C) Feature Selection**
 **D)Fitting the model using Random Forest Algorithm**
 **E) Hyper Parameter Tuning**
-```
