@@ -17,7 +17,6 @@ A) Train set
 ⭕ Concatenate dataframes : train_data + Airline + Source +Destination
 
 B) Test Set : apply the same steps as we did above in the `Train set`.
-
 C) Feature Selection
 D)Fitting the model using Random Forest Algorithm
 E) Hyper Parameter Tuning
